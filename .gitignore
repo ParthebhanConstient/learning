@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+downloaded_dataset.zip
+downloaded_dataset
+dataset
